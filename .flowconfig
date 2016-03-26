@@ -1,0 +1,11 @@
+[ignore]
+bundle.js
+_index.js
+.*/node_modules/fbjs/*
+[include]
+
+[libs]
+declare.js
+[options]
+esproposal.class_instance_fields=enable
+esproposal.class_static_fields=enable
